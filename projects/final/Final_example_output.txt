@@ -1,0 +1,100 @@
+      Post Office General Information Report
+--------------------------------------------------
+
+    Neighborhood 1:
+        ------------------------------------------
+        Home 1's Address:
+            1 Ohio University Dr.
+            Athens, OH 45701
+        Letters:
+            **************************************
+            Information for letter 1
+
+            From:
+                OU Student
+                103 Stocker Center
+                Athens, OH 45701
+
+            To:
+                Rufus Bobcat
+                1 Ohio University Dr.
+                Athens, OH 45701
+
+            Barcode:
+                |:|::|:|:|:|:::|||::::::||::||:|
+            **************************************
+            **************************************
+            Information for letter 2
+
+            From:
+                Someone Else
+                100 Park Ln.
+                Athens, OH 45701
+
+            To:
+                Rufus Bobcat
+                1 Ohio University Dr.
+                Athens, OH 45701
+
+            Barcode:
+                |:|::|:|:|:|:::|||::::::||::||:|
+            **************************************
+        Home 2's Address:
+            2 Ohio University Dr.
+            Athens, OH 45701
+        Letters:
+            **************************************
+            Information for letter 1
+
+            From:
+                OU Student
+                103 Stocker Center
+                Athens, OH 45701
+
+            To:
+                Mr. President
+                2 Ohio University Dr.
+                Athens, OH 45701
+
+            Barcode:
+                |:|::|:|:|:|:::|||::::::||::||:|
+            **************************************
+
+    Neighborhood 2:
+        ------------------------------------------
+        Home 1's Address:
+            2400 CS Ave.
+            Athens, OH 45701
+        Letters:
+            **************************************
+            Information for letter 1
+
+            From:
+                Rufus Bobcat
+                1 Ohio University Dr.
+                Athens, OH 45701
+
+            To:
+                You
+                2400 CS Ave.
+                Athens, OH 45701
+
+            Barcode:
+                |:|::|:|:|:|:::|||::::::||::||:|
+            **************************************
+            **************************************
+            Information for letter 2
+
+            From:
+                Someone Else
+                100 Park Ln.
+                Athens, OH 45701
+
+            To:
+                You
+                2400 CS Ave.
+                Athens, OH 45701
+
+            Barcode:
+                |:|::|:|:|:|:::|||::::::||::||:|
+            **************************************
