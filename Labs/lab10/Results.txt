@@ -1,0 +1,22 @@
+The average number of students for all classes is: 19.75
+
+Courses with 75 student(s):
+	 CS 2400 taught by Patricia Lindner
+
+Courses with 1 student(s):
+	 CS 2970T taught by David Juedes
+	 CS 2971T taught by Chang Liu
+	 CS 2971T taught by Chad Mourning
+	 CS 2981T taught by Jim Zhu
+	 CS 3970T taught by Chang Liu
+	 CS 3970T taught by Lonnie Welch
+	 CS 4900 taught by Chad Mourning
+	 CS 5000D taught by Ralph Kelsey
+	 CS 5040 taught by Ralph Kelsey
+	 CS 5610D taught by Nasseef Abukamail
+	 CS 5620 taught by Lonnie Welch
+	 CS 6940 taught by Shawn Ostermann
+	 CS 6940 taught by Lonnie Welch
+	 CS 6950 taught by David Juedes
+	 CS 6950 taught by Avinash Karanth
+        

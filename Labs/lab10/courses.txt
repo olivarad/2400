@@ -1,0 +1,120 @@
+CS 1400
+David Juedes
+34
+CS 2300
+Ralph Kelsey
+57
+CS 2400
+Patricia Lindner
+75
+CS 2401
+Patricia Lindner
+51
+CS 2653
+Flavia Inbanathan
+47
+CS 2970T
+David Juedes
+1
+CS 2971T
+Chang Liu
+1
+CS 2971T
+Chad Mourning
+1
+CS 2981T
+Jim Zhu
+1
+CS 3000
+Ralph Kelsey
+47
+CS 3200
+Chang Liu
+55
+CS 3560
+Chang Liu
+37
+CS 3610
+Nasseef Abukamail
+46
+CS 3970T
+Chang Liu
+1
+CS 3970T
+Lonnie Welch
+1
+CS 4040
+Ralph Kelsey
+53
+CS 4170
+Lonnie Welch
+29
+CS 4420
+Shawn Ostermann
+41
+CS 4560
+Nasseef Abukamail
+55
+CS 4620
+Lonnie Welch
+42
+CS 4750
+Brandon Saunders
+14
+CS 4900
+Chad Mourning
+35
+CS 4900
+Chad Mourning
+1
+CS 5000D
+Ralph Kelsey
+1
+CS 5040
+Ralph Kelsey
+1
+CS 5170
+Lonnie Welch
+5
+CS 5610D
+Nasseef Abukamail
+1
+CS 5620
+Lonnie Welch
+1
+CS 5750
+Brandon Saunders
+2
+CS 5900
+Chad Mourning
+2
+CS 6040
+David Juedes
+13
+CS 6890
+Ye Yue
+19
+CS 6930
+Jundong Liu
+3
+CS 6940
+Jundong Liu
+4
+CS 6940
+Chad Mourning
+5
+CS 6940
+Shawn Ostermann
+1
+CS 6940
+Lonnie Welch
+1
+CS 6950
+David Juedes
+1
+CS 6950
+Jundong Liu
+4
+CS 6950
+Avinash Karanth
+1
